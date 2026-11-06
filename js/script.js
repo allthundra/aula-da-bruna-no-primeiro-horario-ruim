@@ -21,7 +21,7 @@ Alternativas: [
 },
 {
 enunciado: "Pergunta2",
-Alternativas: [
+Alternativas: [c
 "Alternativa1",
 "alternativa2"
 ],
