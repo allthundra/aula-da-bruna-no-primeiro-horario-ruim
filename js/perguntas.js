@@ -1,6 +1,6 @@
 export const perguntas = [
     {
-        enunciado: "Assim que você entra no mundo de Terraria você se depara com um Npc.Qual npc é este?",
+        enunciado: "Assim que você começa no RPG você se depara com um Npc.Qual npc é este?",
         alternativas: [
             {
                 texto: "Comerciante",
@@ -20,9 +20,9 @@ export const perguntas = [
         enunciado: "Após derrotar os pilares celestiais, o mundo começa a tremer e uma entidade é invocada. Quem é esta entidade?",
         alternativas: [
             {
-                texto: "Senhor da lua (MoonLord).",
+                texto: "rei de amarelo.",
                 afirmacao: [
-                    "Derrotou o Senhor da lua."
+                    "Derrotou a loucura."
                 ]
             },
             {
@@ -34,41 +34,40 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Após derrotar a Imperatriz da Luz diante a luz do dia, ela lhe concede um item específico. Qual item é esse?",
+        enunciado: "Após derrotar os cultistas, eles lhe concederam um item específico. Qual item é esse?",
         alternativas: [
             {
-                texto: "Último Prisma (Last Prism).",
+                texto: "livro do fanastico.",
                 afirmacao: [
-                    "Conseguiu o Último Prisma."
+                    "Conseguiu o livro."
                 ]
             },
             {
-                texto: "Terraprisma.",
+                texto: "manual do renascer.",
                 afirmacao: [
-                    "Conseguiu a Terraprisma."
+                    "Conseguiu o manual."
                 ]
             }
         ]
     },
     {
-        enunciado: "Qual o minério que se destaca por sua cor verde?",
+        enunciado: "Qual a cor do manto dele",
         alternativas: [
             {
-                texto: "Clorofita",
+                texto: "amarelo",
                 afirmacao: [
-                    "Coletou Clorofita."
+                    "acertou."
                 ]
             },
             {
-                texto: "Luminita.",
-                afirmacao: [
-                    "Coletou Luminita."
+                texto: "marrom.",
+                afirmacao: ["acertou"
                 ]
             }
         ]
     },
     {
-        enunciado: "No Terraria existe quatro classes, que determinam o futuro do jogador no jogo. Qual seriam essas classes?",
+        enunciado: " existe quatro classes, que determinam o futuro do jogador no jogo. Qual seriam essas classes?",
         alternativas: [
             {
                 texto: "Healer, Ranger, Melee e Mage",
